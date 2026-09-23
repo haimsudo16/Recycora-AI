@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+recycora.db
+venv/
+.venv/
+uploads/waste_scans/*
+!uploads/waste_scans/.gitkeep
